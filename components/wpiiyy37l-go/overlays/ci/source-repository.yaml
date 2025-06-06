@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wpiiyy37l-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wpiiyy37l-go
